@@ -4,3 +4,6 @@
 [submodule "dio/aws/linux/iac"]
 	path = dio/aws/linux/iac
 	url = https://github.com/siddigo/DIO-AWS-PROJETO1
+[submodule "senai/system-develop/kanban"]
+	path = senai/system-develop/kanban
+	url = https://github.com/siddigo/gerenciamento_tarefas
