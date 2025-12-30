@@ -21,7 +21,7 @@ Este repositório não concentra desenvolvimento ativo. Cada projeto possui **re
 learning/
  ├─ dio/
  ├─ senai/
- ├─ danki/
+ └─ danki/
 ```
 
 Cada pasta contém apenas **submodules**, representando projetos individuais.
