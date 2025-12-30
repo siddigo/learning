@@ -1,0 +1,3 @@
+[submodule "dio/ifood-game-dev/game-dev-principles/open-source"]
+	path = dio/ifood-game-dev/game-dev-principles/open-source
+	url = https://github.com/siddigo/dio-lab-open-source
