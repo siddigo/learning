@@ -13,3 +13,6 @@
 [submodule "danki/game-develop/mini-games/zelda"]
 	path = danki/game-develop/mini-games/zelda
 	url = https://github.com/siddigo/minizelda
+[submodule "senai/app-develop/invoice"]
+	path = senai/app-develop/invoice
+	url = https://github.com/siddigo/senai-nota-fiscal
