@@ -46,8 +46,10 @@ Projetos do curso técnico e disciplinas práticas.
 senai/
  ├─ programming-logic/portugol
  ├─ app-develop/invoice
- ├─ system-develop/kanban
- └─ system-testing/webpage
+ ├─ system-testing/webpage
+ └─ system-develop/
+    ├─ kanban
+    └─ agenda
 ```
 
 ### Danki
