@@ -16,3 +16,6 @@
 [submodule "senai/app-develop/invoice"]
 	path = senai/app-develop/invoice
 	url = https://github.com/siddigo/senai-nota-fiscal
+[submodule "senai/programming-logic/portugol"]
+	path = senai/programming-logic/portugol
+	url = https://github.com/siddigo/senai-portugol
