@@ -7,3 +7,6 @@
 [submodule "senai/system-develop/kanban"]
 	path = senai/system-develop/kanban
 	url = https://github.com/siddigo/gerenciamento_tarefas
+[submodule "senai/system-testing/webpage"]
+	path = senai/system-testing/webpage
+	url = https://github.com/siddigo/sa4-teste
