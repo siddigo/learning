@@ -1,3 +1,6 @@
 [submodule "dio/ifood-game-dev/game-dev-principles/open-source"]
 	path = dio/ifood-game-dev/game-dev-principles/open-source
 	url = https://github.com/siddigo/dio-lab-open-source
+[submodule "dio/aws/linux/iac"]
+	path = dio/aws/linux/iac
+	url = https://github.com/siddigo/DIO-AWS-PROJETO1
