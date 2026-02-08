@@ -22,3 +22,6 @@
 [submodule "senai/system-develop/agenda"]
 	path = senai/system-develop/agenda
 	url = https://github.com/siddigo/senai-agenda
+[submodule "dio/c-plus-plus-developer/aop"]
+	path = dio/c-plus-plus-developer/aop
+	url = https://github.com/siddigo/bank-system-error-log
